@@ -21,16 +21,16 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "logo.jpeg"
+  avatar           : "images/logo.jpeg"
   name             : "Edi Burlacu"
   pronouns         : "he/him"  
   bio              : " I’m working on Gen AI with applications in NLP and 3D Computer Vision. I am also interested in Federated and Reinforcemet learning."
   location         : "UK; Romania"
   employer         : "University of Cambridge"
-  uri              : # URL
+  uri              : "eduardburlacu.github.io/"
   
-  email            : "eduardburlacu5@gmail.com" 
-
+  personal email   : "eduardburlacu5@gmail.com" 
+  university email : "efb48@cam.ac.uk"
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
 
@@ -39,7 +39,7 @@ author:
   kaggle           : "eduardburlacu"
 
   # Social media
-  linkedin         : "https://www.linkedin.com/in/eduard-burlacu-168860223/"
+  linkedin         : "eduard-burlacu-168860223"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
