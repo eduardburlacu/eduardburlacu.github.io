@@ -21,7 +21,7 @@ repository               : "eduardburlacu/eduardburlacu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "logo.jpeg"
+  avatar           : "logo.jpg"
   name             : "Edi Burlacu"
   pronouns         : "he/him"  
   bio              : " I’m working on Gen AI with applications in NLP and 3D Computer Vision. I am also interested in Federated and Reinforcemet learning."
