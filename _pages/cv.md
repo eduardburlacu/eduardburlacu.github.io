@@ -11,26 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Information and Computer Engineering, University of Cambridge, 2025
+* B.A. in Information and Computer Engineering, University of Cambridge, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: ML Research Engineer Intern
+  * Autodesk Research, London
+  * Topic: Fast-sampling diffusion model for 3D Computer Vision. Generating 3D bodies as CAD b-reps.
+  * Held a presentation outlining findings and how this method improves the latency and reduces costs in deployment.
+  * Supported the team by submitting and evaluating PRs, reporting issues, and providing support with debugging.
+  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: ML Research Intern
+  * CS department, University of Cambridge
+  * Topic: Federated Learning. Allowing straggler clients to optimally offload computation to other clients. Dropped the training time by 30% and reduced straggler prevalence by 15X.
+  * An agent splits the neural networks for minimizing the training time. It combines heuristic scheduling, PPO and split learning with any FL strategy.
+  * The heuristic-based approach matches prior RL methods that suffered of the curse of dimensionality, thus applicable to a few devices(<6). The proposed method can be applied for thousands of clients.
+  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Hardware Engineer Intern
+  * Qualcomm R&D Lab, Cambridge
+  * Topic: I worked in 2 projects, one focused on PCB design, and one on software development.
+  * In the PCB project, I designed an internal board from scratch and implemented it in ECAD.
+  * I developed a GUI application that automates internal processes of circuit testing by serial communication with dedicated instrumentation. The test time was dropped from 1h to 3 minutes.
   
 Skills
 ======
