@@ -13,7 +13,7 @@ Education
 ======
 * M.S. in Information and Computer Engineering, University of Cambridge, 2025
 * B.A. in Information and Computer Engineering, University of Cambridge, 2024
-
+  
 Work experience
 ======
 * Summer 2024: ML Research Engineer Intern
@@ -44,6 +44,26 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+Courses
+=======
+| Course            | Skills   | 
+| :---------------- | :------: | 
+| Medical Imaging & 3D Computer Graphics| MRI; CT; Splines; OpenGL/ Vulkan core concepts | 
+| Inference                           |   Variational Inference, HMMs, EM, Bayesian Inference   | 
+| Information Theory and Coding       | Lossless compression; Huffman and Arithmetic Coding; Message Passing| 
+| Mathematical Methods                | Linear Algebra, Stochastic Process, Optimization  |
+| Statistical Signal Processing       | Core Probability, Markov Chains, Estimation Theory|
+| Signals and Systems                 | Z-transform, FFT, CT Random Processes|
+| PDEs and Variational Calculus       | Index Notation, Analytical and Computational methods for PDEs; Functional optimization|
+| Economics                           | Business Economics; Demand & Supply; Game Theory |
+| Computer Vision                     | SIFT descriptor, |
+| Deep Learning                       | |
+|Computational Statistics and ML      | MCMC, Lebesgue Int., Functional Analysis, Sampling|
+| Probabilistic ML                    | Gaussian Processes, Ranking, Document Modelling|
+| Algorithms & Data Structures        | |
+| Computational Neuroscience          | |
+| Statistical Signal & Network Models | |
 
 Publications
 ======
