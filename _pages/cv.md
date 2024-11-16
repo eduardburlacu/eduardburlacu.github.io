@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* M.S. in Information and Computer Engineering, University of Cambridge, 2025
-* B.A. in Information and Computer Engineering, University of Cambridge, 2024
+* M.Eng. in Computer and Information Engineering, University of Cambridge, 2025
+* B.A. in Computer and Information Engineering, University of Cambridge, 2024
   
 Work experience
 ======
 * Summer 2024: ML Research Engineer Intern
   * Autodesk Research, London
-  * Topic: Fast-sampling diffusion model for 3D Computer Vision. Generating 3D bodies as CAD b-reps.
+  * Topic: Few-step diffusion model for 3D Computer Vision. Generating 3D bodies as CAD b-reps.
   * Held a presentation outlining findings and how this method improves the latency and reduces costs in deployment.
   * Supported the team by submitting and evaluating PRs, reporting issues, and providing support with debugging.
   
@@ -38,51 +38,45 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+1. Theoretical Skills
+* AI/ML theory: Generative Models, Reinforcement Learning, Federated Learning, Transformer-based models, State-space Models, Neural ODEs
+* Applications: Speech Processing, 3D Computer Vision, Language modelling, Computer Networking, Medical Imaging
+* Probability and Statistics: Hypothesis Testing, Bayesian Inference, Statistical Testing, Statistical Learning, Regeression(Linear, Regularisation ,Ridge, LASSO)
+* Applied Maths: Graph Theory, Fourier/ Wavelet Analysis, Information Theory, Coding, Cryptography
+* Physics: Statistical Mechanics, Quantum Physics, Relativity, Optics, Astrophysics
+* Engineering: Signal Processing, Fluid Mechanics, Analogue and Digital Electronics, CAD/CAM/ECAD, Material Science
+* Economics: Business Economics, Financial Mathematics, Accounting and Finance
+
+2. Practical Skills
+* Python
+  * ML tools include **PyTorch**, Lightning, HF **Transformers**+**Diffusers**+**Accelerate**, **Tensorflow**, Sklearn, XGBoost, **Statsmodels**
+  * Algorithms and Data Structures
+  * OOP, Scientific Programming, Data Analysis and Visualisation
+  * Currently learning: Triton, JAX
+* Other programming languages forged in projects: C, C++, C#, CUDA, HTML, CSS, JavaScript, MATLAB, SQL
+* Cloud Computing / Databases: **AWS**, Azure, Google BigQuery, InfluxDB
+* Unix: Bash, tmux, nano, vim
+
 
 Courses
 =======
 | Course            | Skills   | 
 | :---------------- | :------: | 
-| Medical Imaging & 3D Computer Graphics| MRI; CT; Splines; OpenGL/ Vulkan core concepts | 
-| Inference                           |   Variational Inference, HMMs, EM, Bayesian Inference   | 
-| Information Theory and Coding       | Lossless compression; Huffman and Arithmetic Coding; Message Passing| 
-| Mathematical Methods                | Linear Algebra, Stochastic Process, Optimization  |
-| Statistical Signal Processing       | Core Probability, Markov Chains, Estimation Theory|
-| Signals and Systems                 | Z-transform, FFT, CT Random Processes|
+| Medical Imaging & 3D Computer Graphics| MRI; CT; Parametric curves; Splines; OpenGL/ Vulkan API concepts | 
+| Inference                           |   Bayesian Inference, Variational Inference, HMMs, EM | 
+| Information Theory and Coding       | Information theory concepts; Source and Channel Coding; Huffman and Arithmetic Coding; LDPC; Hypothesis Testing; Belief Propagation;| 
+| Mathematical Methods                | Linear Algebra, Stochastic Processes, Optimization  |
+| Statistical Signal Processing       | Probability, Markov Chains, Time Series, Estimation Theory|
+| Signals and Systems                 | Z-transform, FFT, Discrete Systems, CT Random Processes|
 | PDEs and Variational Calculus       | Index Notation, Analytical and Computational methods for PDEs; Functional optimization|
-| Economics                           | Business Economics; Demand & Supply; Game Theory |
-| Computer Vision                     | SIFT descriptor, |
-| Deep Learning                       | |
-|Computational Statistics and ML      | MCMC, Lebesgue Int., Functional Analysis, Sampling|
+| Economics                           | Business Economics; Demand & Supply; Game Theory; Statistics applied|
+| Computer Vision                     | SIFT descriptor, CV Geometry, Camera Calibration, Deep Models: CNN, ViT, DiT|
+| Deep Learning                       | SVMs, (Variational) EM, Deep Models: MLP, CNN, RNN,Transformers|
+| Computational Statistics and ML     | Monte Carlo Methods, MCMC, Functional Analysis, SDEs, Parallel tempering|
 | Probabilistic ML                    | Gaussian Processes, Ranking, Document Modelling|
 | Algorithms & Data Structures        | |
-| Computational Neuroscience          | |
-| Statistical Signal & Network Models | |
+| Computational Neuroscience          | Reinforcement Learning applied|
+| Statistical Signal & Network Models | Kalman Filters, Graph Theory, Erdős–Rényi model|
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
