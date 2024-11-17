@@ -60,6 +60,7 @@ Skills
 
 Courses
 =======
+
 | Course            | Skills   | 
 | :---------------- | :------: | 
 | Medical Imaging & 3D Computer Graphics| MRI; CT; Parametric curves; Splines; OpenGL/ Vulkan API concepts | 
