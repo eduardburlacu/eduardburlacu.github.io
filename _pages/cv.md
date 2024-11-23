@@ -41,21 +41,35 @@ Skills
 1. Theoretical Skills
 * AI/ML theory: Generative Models, Reinforcement Learning, Federated Learning, Transformer-based models, State-space Models, Neural ODEs
 * Applications: Speech Processing, 3D Computer Vision, Language modelling, Computer Networking, Medical Imaging
-* Probability and Statistics: Hypothesis Testing, Bayesian Inference, Statistical Testing, Statistical Learning, Regeression(Linear, Regularisation ,Ridge, LASSO)
+* Probability and Statistics: Hypothesis Testing, Bayesian Inference, Statistical Testing, Statistical Learning, Regeression(Linear, Regularisation Ridge, LASSO)
 * Applied Maths: Graph Theory, Fourier/ Wavelet Analysis, Information Theory, Coding, Cryptography
 * Physics: Statistical Mechanics, Quantum Physics, Relativity, Optics, Astrophysics
 * Engineering: Signal Processing, Fluid Mechanics, Analogue and Digital Electronics, CAD/CAM/ECAD, Material Science
 * Economics: Business Economics, Financial Mathematics, Accounting and Finance
 
 2. Practical Skills
-* Python
-  * ML tools include **PyTorch**, Lightning, HF **Transformers**+**Diffusers**+**Accelerate**, **Tensorflow**, Sklearn, XGBoost, **Statsmodels**
-  * Algorithms and Data Structures
-  * OOP, Scientific Programming, Data Analysis and Visualisation
-  * Currently learning: Triton, JAX
+* OOP, Scientific Programming
+* Algorithms and Data Structures
+* Data Analysis and Visualisation
+* Preferred programming language: **Python**
 * Other programming languages forged in projects: C, C++, C#, CUDA, HTML, CSS, JavaScript, MATLAB, SQL
-* Cloud Computing / Databases: **AWS**, Azure, Google BigQuery, InfluxDB
-* Unix: Bash, tmux, nano, vim
+
+3. Tools
+
+| Application                         | Preferred Tools   | 
+| :---------------- | :------: | 
+| ML training and monitoring          | Comet ML, WandB, Tensorboard|
+| Deep Learning Frameworks            | PyTorch, Tensorflow, learning JAX|
+| ML Systems Wrappers                 | Lightning, HF **Transformers**+**Diffusers**+**Accelerate**, Keras |
+| Specialized DL Framerworks          | Torchvision, Torchaudio, TorchRL, SB3, Asteroid, Flwr |
+| Machine Learning Libraries          | Sklearn, XGBoost |
+| Statistics                          | Numpy, Pandas, **Statsmodels**, PyMC, Numba |
+| Low level ML                        | CUDA, learning Triton |
+| Distributed Computing               | AWS S3 + EC2 |
+| Databases                           | Google BigQuery, InfluxDB |
+| GUI                                 | QT, Wx |
+| Computer Graphics                   | OpenGL, Vulkan |
+| Unix                                | Bash, tmux, nano, vim |
 
 
 Courses
